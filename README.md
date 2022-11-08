@@ -1,2 +1,2 @@
 # Bootcamp_projects
-Data science bootcamp #6
+Data science bootcamp by Data Rockies
