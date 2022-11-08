@@ -14,11 +14,6 @@ We have learn Data analytic skill during 4 months.
 - Dashboard
 
 ***Reference***
--R Programming (Pizza_chat_bot)
-https://replit.com/@TheraratSrisasw/PharKungPizzaShop#main.r
-
--R Programming (Game_PaoYingChub)
-https://replit.com/@TheraratSrisasw/PharKungGamesPaoYingChub#main.r
-
--Data Transformation
-https://datalore.jetbrains.com/notebook/ugP9kVUfsNGLgmhceMSRcr/cC2zA2JLbPrzHVbAi1EanF/
+-R Programming (Pizza_chat_bot) https://replit.com/@TheraratSrisasw/PharKungPizzaShop#main.r
+-R Programming (Game_PaoYingChub) https://replit.com/@TheraratSrisasw/PharKungGamesPaoYingChub#main.r
+-Data Transformation https://datalore.jetbrains.com/notebook/ugP9kVUfsNGLgmhceMSRcr/cC2zA2JLbPrzHVbAi1EanF/
