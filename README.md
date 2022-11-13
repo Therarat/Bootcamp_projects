@@ -18,3 +18,4 @@ We have learn Data Analytic & Data Science skill during 4 months.
 - R Programming (Pizza_chat_bot) https://replit.com/@TheraratSrisasw/PharKungPizzaShop#main.r
 - R Programming (Game_PaoYingChub) https://replit.com/@TheraratSrisasw/PharKungGamesPaoYingChub#main.r
 - Data Transformation https://datalore.jetbrains.com/notebook/ugP9kVUfsNGLgmhceMSRcr/cC2zA2JLbPrzHVbAi1EanF/
+- Python Programming (Game_PaoYingChub) https://datalore.jetbrains.com/notebook/ugP9kVUfsNGLgmhceMSRcr/JhI8UxgqVKsyqQJ6FCiL63/
