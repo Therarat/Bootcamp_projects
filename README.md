@@ -14,7 +14,6 @@ We have learn Data Analytic & Data Science skill during 4 months.
 - Essential Python for Data Analyst
 - Dashboard
 
-<References>
 
 ***Reference***
 - SQL https://replit.com/@TheraratSrisasw/PharkungClothStore#main.sql
