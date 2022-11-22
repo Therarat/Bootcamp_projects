@@ -1,6 +1,6 @@
 # Bootcamp_projects
 
-**Data science bootcamp by DataRockie (adToy)**
+`**Data science bootcamp by DataRockie (adToy)**`
 
 We have learn Data Analytic & Data Science skill during 4 months.
 - Spreadsheets
