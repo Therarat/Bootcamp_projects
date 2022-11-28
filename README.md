@@ -24,3 +24,4 @@ We have learn Data Analytic & Data Science skill during 4 months.
 - `Python Programming` (OOP -> Create our own function) https://datalore.jetbrains.com/notebook/ugP9kVUfsNGLgmhceMSRcr/j8exz97iePyRYjToaIwDW2/
 - `Python API`  https://colab.research.google.com/drive/1xBlPKQKm8GQpQsfYDlygDp-4GDCRU6ZA#scrollTo=UyrmszNOozDw
 - `Python for manipulate Data` https://datalore.jetbrains.com/notebook/ugP9kVUfsNGLgmhceMSRcr/gJ48StfWZWVMSm1A1KDlYL/
+- `Dashboard` https://datastudio.google.com/reporting/6efcfb12-476b-49f5-a678-b41e2638b1c5
